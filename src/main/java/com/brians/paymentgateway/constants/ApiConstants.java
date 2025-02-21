@@ -1,4 +1,4 @@
-package com.brians.paymentgateway.config;
+package com.brians.paymentgateway.constants;
 
 public class ApiConstants {
 
